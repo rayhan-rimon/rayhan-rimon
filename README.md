@@ -3,9 +3,9 @@
 
 ## I'm ready to Work as a LARAVEL Developer!
 
-- 🔭 I’m currently working on LARAVEL-9 Web Application development
-- 🌱 I’m currently learning VueJs Framework ........
-- 🥅 2022 Goals: Learn VUEjS, MongoDB. 🚀 Python, Problem Solving 
+- 🔭 I’m currently working on LARAVEL &DJANGO
+- 🌱 I’m currently learning React ........
+- 🥅 2025 Goals: Learn React, MongoDB. 🚀 Python, Problem Solving 
 - 👯 I’m looking to collaborate on creating content!
 - 🚀 Fun fact: You are reading this right now 😂
 
